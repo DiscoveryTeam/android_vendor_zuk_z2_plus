@@ -26,5 +26,11 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     colorservice \
     qcrilhook
+	
+# Perf
+PRODUCT_PACKAGES += \
+    com.qualcomm.qti.Performance.xml \
+    libqti_performance \
+    QPerformance
 
 $(call inherit-product, vendor/zuk/z2_plus/vendor/copyfiles.mk)
