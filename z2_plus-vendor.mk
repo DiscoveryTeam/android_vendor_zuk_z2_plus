@@ -306,6 +306,8 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/z2_plus/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
     vendor/zuk/z2_plus/proprietary/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so \
     vendor/zuk/z2_plus/proprietary/vendor/lib/libqdi.so:system/vendor/lib/libqdi.so \
+    vendor/zuk/z2_plus/proprietary/vendor/lib/libHu.so:system/vendor/lib/libHu.so \
+    vendor/zuk/z2_plus/proprietary/vendor/lib/libHui.so:system/vendor/lib/libHui.so \
     vendor/zuk/z2_plus/proprietary/vendor/etc/sensors/hals.conf:system/vendor/etc/sensors/hals.conf \
     vendor/zuk/z2_plus/proprietary/vendor/etc/perf-profile5.conf:system/vendor/etc/perf-profile5.conf \
     vendor/zuk/z2_plus/proprietary/vendor/etc/perf-profile4.conf:system/vendor/etc/perf-profile4.conf \
